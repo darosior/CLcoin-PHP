@@ -37,7 +37,7 @@ Getting Started
     
     $client->getblock('000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f');
     ```
-    List of methods : 
+    List of available methods :   
         addmultisigaddress <nrequired> <'["key","key"]'> [account]  
         addnode <node> <add|remove|onetry>  
         backupwallet <destination>  
